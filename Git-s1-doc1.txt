@@ -1,2 +1,7 @@
 Este es el archivo Git-s1-doc1.txt.
 
+- Al momento de guardar alguna modificacion al archivo
+  estara otra vez en rojo en la consola la ahora de usar
+  el comando git status. Esto se debe al que algo nuevo
+  a pasado en el archivo pero no a sido preparado.
+
